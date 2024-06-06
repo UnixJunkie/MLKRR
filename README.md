@@ -6,7 +6,7 @@
 - The version provided here is faster and now optimises the hyperparameter sigma as part of the metric learning algorithm.
 
 ## Examples
-- Download the required dependencies as `pip install -r requirements.txt`
+- Download the required dependencies under a conda environment using: `pip install -r requirements.txt`
 - To generate the necessary data, first run
 `examples/generate_reps.py`. 
 - Then the corresponding representations will be generated in the `data` directory, needed for the `examples/qm9.py` to run.

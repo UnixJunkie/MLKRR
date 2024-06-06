@@ -8,7 +8,7 @@
 ## Examples
 - Download the required dependencies as `pip install requirements.txt`
 - To generate the necessary data, first run
-`cd examples; ppython3 generate_qm9_reps.py`.
+`cd examples; python3 generate_qm9_reps.py`.
 - Then the corresponding representations will be generated in the `data` directory, needed for the `examples/qm9.py` to run.
 
 ## Citing this work
